@@ -2,7 +2,7 @@
    "room":"Kpop GO",
    "author":"Uikae",
    "icon":"https://i.imgur.com/0Bek0VW.png",
-   "css":"https://raw.githubusercontent.com/TokyoSaikyo/Kpop-GO-Theme/master/kpg.css",
+   "css":"https://raw.githubusercontent.com/TokyoSaikyo/cool/master/cool.css",
    "rules":{
       "allowAutorespond":null,
       "allowAutowoot":true,
