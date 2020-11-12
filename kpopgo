@@ -26,14 +26,14 @@
       "user":null
    },
    "images":{
-      "background":"https://i.imgur.com/NepgzZn.jpg",
-      "playback":"https://i.imgur.com/37HXqOM.png",
+      "background":"https://i.gyazo.com/a6a57f89915e6465fd0b88db136366b6.jpg",
+      "playback":"https://i.gyazo.com/81b8380db76facbd2a5ad4687cf61b3e.png",
       "admin":"https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
       "ambassador":"https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
       "host":"https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
       "cohost":"https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
-      "manager": "http://i.imgur.com/BtScqan.png",
-      "bouncer": "http://i.imgur.com/DU4HqyI.png",
+      "manager": "https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
+      "bouncer": "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
       "rdj":"https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
       "subscriber":null,
       "silversubscriber":"https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
